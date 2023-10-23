@@ -16,7 +16,7 @@
 .background {
     background-image: url("/src/images/grupo-de-jovens-felizes-em-roupas-de-natacao-pulando-com-as-maos-para-cima-ferias-de-verao-festa-na-praia-celebracao-diversao_1016-13036.avif");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
 
     &::before {
         position: absolute;
